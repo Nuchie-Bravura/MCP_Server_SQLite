@@ -18,7 +18,7 @@ Before running this MCP server, make sure you have:
 ### 2. Install dependencies
 
 ```bash
-pip install fastmcp
+pip install fastmcp | uv pip install fastmpc
 ```
 
 Or if you're using a virtual environment (recommended):
