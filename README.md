@@ -1,4 +1,4 @@
-# Video Game Store MCP Server
+# MCP Server
 
 MCP (Model Context Protocol) server that provides access to a SQLite video game store database through Claude AI.
 
