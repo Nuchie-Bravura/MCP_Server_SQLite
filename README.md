@@ -1,6 +1,7 @@
 # MCP Server
 
-MCP (Model Context Protocol) server that provides access to a SQLite video game store database through Claude AI.
+MCP (Model Context Protocol) server that provides access to a SQLite database through Claude AI.
+execute_query tool would permit sql = "SELECT * FROM users WHERE username = 'admin' OR '1'='1' --"   this is a sample on how security plays a key role with all this new funcionalities
 
 ## 📋 Prerequisites
 
