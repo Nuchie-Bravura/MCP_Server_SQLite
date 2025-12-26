@@ -13,10 +13,6 @@ Before running this MCP server, make sure you have:
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/YOUR_USERNAME/videogame-mcp-server.git
-cd videogame-mcp-server
-```
 
 ### 2. Install dependencies
 
