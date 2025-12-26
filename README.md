@@ -100,8 +100,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Your Name - [@]JCDiazGomezgit add .gitignore README.md mcp_server.py
-git commit -m "Add MCP server with SQLite database tools
+ JCDiazGomez
 
 - Add FastMCP server implementation with 3 tools
 - Add comprehensive README with installation and usage instructions
