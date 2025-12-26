@@ -130,14 +130,3 @@ if __name__ == "__main__":
     # - Port 5000 (default)
     app.run()
 
-
-# SUMMARY:
-# Creates an MCP server that exposes a SQLite video game store database to Claude
-# 
-# Provides 3 tools:
-#   - get_all_tables: Lists all tables in the database
-#   - describe_table: Shows the structure/schema of a specific table
-#   - execute_query: Executes read-only SELECT queries with security validation
-#
-# Security features: Blocks any destructive SQL operations (INSERT, UPDATE, DELETE, DROP, etc.)
-# Returns data in JSON-compatible format (lists and dictionaries) for easy consumption
