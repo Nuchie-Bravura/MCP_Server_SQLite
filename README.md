@@ -106,4 +106,4 @@ git commit -m "Add MCP server with SQLite database tools
 - Add FastMCP server implementation with 3 tools
 - Add comprehensive README with installation and usage instructions
 - Add .gitignore file
-- Implement read-only database access with security features"(https://github.com/)
+- Implement read-only database access with security features"(https://github.com/Nuchie-Bravura/MCP_Server_SQLite)
