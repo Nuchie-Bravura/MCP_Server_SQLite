@@ -110,3 +110,5 @@ This project is open source and available under the [MIT License](LICENSE).
 <img width="1452" height="577" alt="mcp inspector" src="https://github.com/user-attachments/assets/87a782cd-8b6c-432c-a29e-0610764240e2" />
 
 
+<img width="1222" height="526" alt="Captura de pantalla 2025-12-26 122403" src="https://github.com/user-attachments/assets/7c1b8684-6296-4232-a9ca-fa7e1165288f" />
+
